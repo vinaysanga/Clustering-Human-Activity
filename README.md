@@ -1,6 +1,10 @@
 # Mini Project 3: Human Activity Recognition Using Smartphones
 This project involves clustering human activities recognized through sensor data captured from smartphones. A group of 30 volunteers performed six activities, with their movements captured using the embedded accelerometer and gyroscope of a Samsung Galaxy S II. The aim is to categorize these activities into clusters to understand the patterns and characteristics of human movement.
 
+<a target="_blank" href="https://colab.research.google.com/github/vinaysanga/Clustering-Human-Activity/blob/master/Experiment.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Dataset Description
 The dataset, sourced from the UCI Machine Learning Repository, includes data from experiments carried out with volunteers aged between 19-48 years. The six activities performed are WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING. Sensor signals were pre-processed and sampled in fixed-width sliding windows, with features extracted from both time and frequency domains
 
@@ -22,3 +26,4 @@ The dimensionality reduction techniques facilitated the visualization of high-di
 ## Conclusion
 The clustering revealed clear separation into two groups indicative of active (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS) and passive (SITTING, STANDING, LAYING) activities. This distinction aligns with the intrinsic differences in the nature of these activities. The project underscored the importance of dimensionality reduction and standardization in analyzing high-dimensional sensor data. Challenges such as choosing the appropriate dimensionality reduction technique and optimizing clustering parameters were overcome through methodical experimentation and analysis.
 
+**For the entire info, please check [Project_Report](Project_Report.pdf)**
