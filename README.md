@@ -1,4 +1,4 @@
-# Mini Project 3: Human Activity Recognition Using Smartphones
+# Human Activity Clustering
 This project involves clustering human activities recognized through sensor data captured from smartphones. A group of 30 volunteers performed six activities, with their movements captured using the embedded accelerometer and gyroscope of a Samsung Galaxy S II. The aim is to categorize these activities into clusters to understand the patterns and characteristics of human movement.
 
 <a target="_blank" href="https://colab.research.google.com/github/vinaysanga/Clustering-Human-Activity/blob/master/Experiment.ipynb">
